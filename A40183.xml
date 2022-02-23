@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few queries for Thomas Moor the elder, Thomas Moor the younger, John Horn, or for any of them or any other, to answer</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40183</idno>
+            <idno type="STC">Wing F1817A</idno>
+            <idno type="STC">ESTC R31638</idno>
+            <idno type="EEBO-CITATION">12211733</idno>
+            <idno type="OCLC">ocm 12211733</idno>
+            <idno type="VID">56318</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56318)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few queries for Thomas Moor the elder, Thomas Moor the younger, John Horn, or for any of them or any other, to answer</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 7: G.F.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56318:1"/>
+            <pb n="1" facs="tcp:56318:1" rendition="simple:additions"/>
+            <head>A few QUERIES FOR <hi>Thomas Moor</hi> the Elder, <hi>Thomas Moor</hi> the Younger, <hi>John Horn,</hi> or for any of them, or any other to anſwer.</head>
+            <list>
+               <item>1. <seg rend="decorInit">D</seg>Oth not Chriſt remain in the Heavens un<g ref="char:EOLhyphen"/>til the reſtitution of all things? And whether any man ſhall be reſtored into the ſtate <hi>Adam</hi> was in before he fel, while upon the Earth? Anſwer.</item>
+               <item>2. And if he remain in the Heavens til all things be reſtored, by what doth he reſtore? Is it by his Light, Power and Spirit within people, ſeeing that man and woman their inward man muſt be renewed, and fin is in man that defaceth man and woman?</item>
+               <item>3. And is not the ſame that did deſcend, did aſcend, that roſe, that death and bonds could not hold?</item>
+               <item>4. What is it that Chriſt doth reſtore? Is it ſome thing within man from Chriſt?</item>
+               <item>5. And is Chriſt aſcended above all Principalities, Thrones and Dominions? And doth he reign now until
+<pb n="2" facs="tcp:56318:2"/>he hath made his Enemies his Footſtool?</item>
+               <item>6. By what doth he judge, fubdue, put down, condemn and rule? Is it not by his Power within, and Word with<g ref="char:EOLhyphen"/>in, and Light within, ſeeing darkneſs is within?</item>
+               <item>7: Doſt thou own the body of Chriſt that ſuffered at <hi>Jeruſalem,</hi> to be riſen? And did that fleſh ſee any corrup<g ref="char:EOLhyphen"/>tion? Or was his blood corruptible?</item>
+               <item>8. Doth that body remain in the Heavens til all things be reſtored? Is not Chriſt the fleſh the Saints muſt eat, and the blood the Saints muſt drink, that is to ſay, the blood of Chriſt?</item>
+               <item>9. And did not ſome ſit in Heavenly places in Chriſt Je<g ref="char:EOLhyphen"/>ſus, in the Apoſtles days, and were of his fleſh and bones?</item>
+               <item>10. And whether doth Chriſt bring his Church above all Principalities and Powers, into the Heavens, to be of his body, and he to be their Head?</item>
+               <item>11. The body that came to do the wil of God, was not that Chriſt's body? Is he riſen, or no? Was he offered up, or no?</item>
+               <item>12. Did Chriſt's body end the outward offerings in the Law, and before the Law? and was not part of the Tythe a Heave-offering? And canſt thou either pay of receive Tythes, and own Chriſt come in the fleſh, and he offered up?</item>
+               <item>13. Did he end the Prieſthood that took T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thes? Did he end the Law by which the prieſthood w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> made that took Tythes? Did he end the Commandment that gave Tythes?</item>
+               <item>14. Waſt thou made a Miniſter by Chriſt? Haſt thou received a gift from him that aſcended on high, for the Work of the Miniſtry? Or is the Work of thy Miniſtry from Books?</item>
+               <item>15. Haſt thou heard God's voice, and Chriſt's voice immediately from Heaven, yea or nay?</item>
+               <item>16. Haſt thou the ſame Spirit that Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles had, yea or nay?</item>
+               <pb n="3" facs="tcp:56318:2"/>
+               <item> 17 Doſt thou bring people out of the ſtate of <hi>Adam</hi> and <hi>Eve,</hi> out of the fall, up to the ſtate they were in be<g ref="char:EOLhyphen"/>fore they fell, and ſo to the meaſure of the ſtature of Chriſt that never fell?</item>
+               <item>18. Shall any man be perfect here upon the Earth, and made free from the body of ſin and death, &amp; come to the ſtate that <hi>Adam</hi> &amp; <hi>Eve</hi> was in before they fell, yea or nay? If not, which of theſe three ſtates doſt thou keep them in, that is to ſay, the ſtate of <hi>Adam</hi> and <hi>Eve</hi> in the fall, with his ſons and daughters, or in the ſtate of <hi>Adam</hi> and <hi>Eve</hi> before they fell, or in the ſtate of Chriſt that never fell!</item>
+               <item>19. Whether thou keepeſt the people in the perfect ſtate, or in an imperfect ſtate? Anſwer.</item>
+               <item>20. Art thou a Papiſt? And doſt thou own a Purgato<g ref="char:EOLhyphen"/>ry to be cleanſed in after death? Or where muſt men be cleanſed if not upon the Earth? Is there any repentance in the Grave? Doth the tree lye corrupt as it falls corrupt, yea or nay?</item>
+               <item>21. Was all the types, figures and ſhadows given to man after he fell? And is Chriſt the end of all? Or is there any ſhadow in him?</item>
+               <item>22. Doth man leave all the ſhadows, that cometh to live in him, to wit, Chriſt?</item>
+               <item>23. Is Bread, Water, Wine, Chriſt? Or are they to put people in remembrance of Chriſt, or a ſhew of his death till he come?</item>
+               <item>24. And was people to take this till Chriſt came within them, or to take it to the end of the world? If ſo, how were they to dye with Chriſt, and come into death with him, of whoſe death they took the Bread and Wine in remembrance?</item>
+               <item>25. Whether or no to dye with Chriſt, and be in death with him, is not a nearer thing then to take Bread and Wine to put them in remembrance of his death?</item>
+               <item>26. Muſt people be buried with Chriſt while they are upon the Earth, after they are dead with Chriſt? An<g ref="char:EOLhyphen"/>ſwer.</item>
+               <pb n="4" facs="tcp:56318:3"/>
+               <item> 27. Muſt people ariſe with Chriſt while they are upon the earth? and if they be riſen with Chriſt, or do riſe with Chriſt, then are they not to ſeek thoſe things that be above?</item>
+               <item>28. Are not figures, ſhadows, types, bread, water, wine, are not theſe things below? And if ſo, what are theſe things we are to ſeek, that come down from above?</item>
+               <item>29. Whether the Scriptures be the Word of God, or the Words of God? Or what the word Scripture ſig<g ref="char:EOLhyphen"/>nifies?</item>
+               <item>30. Art not thou one of them that keep people always under teaching, that they may be alwayes paying thee? if not, how many haſt thou brought to that ſtate that they need no man to teach them? as in 1 <hi>John</hi> 2.11.</item>
+               <item>31. Waſt not thou one of them that ſprinkled children for money, and ſo called it Baptiſm, and bad them repent afterward?</item>
+               <item>32. Do the Scriptures ſay, <hi>Baptize and teach,</hi> or <hi>Repent and be baptized?</hi> Or doth it ſay, <hi>Teach and baptize,</hi> or <hi>Bap<g ref="char:EOLhyphen"/>tize and teach?</hi>
+               </item>
+               <item>33. Whether or no the honor that the <hi>Phariſees</hi> ſought was not a civil honor, as people ſeek now, that ſtood in ſome outward things? and what was the honor that came down from above? And what is the honor that God wil lay in the duſt?</item>
+               <item>34. And what is the honor that <hi>Peter</hi> ſpeaks of, which was to all men? whether was it putting off the hat? whe<g ref="char:EOLhyphen"/>ther <hi>Daniel</hi> and the three children put off their hats to <hi>Nebuchadnezar?</hi>
+               </item>
+               <item>35. VVhether <hi>Thou</hi> to a ſingle perſon is not the pure language, according to Bible, Accidence, or Grammer, yea or nay?</item>
+               <item>36. Is the Church of Chriſt ſuch a people as are redeem<g ref="char:EOLhyphen"/>ed from the Earth, without ſpot, wrinkle, blemiſh, or any ſuch thing?</item>
+               <item>37. Are they that plead for ſpots, wrinkles, blemiſhes, and the body of death for the term of life, Miniſters of Satan, or Miniſters of Chriſt.</item>
+               <pb n="5" facs="tcp:56318:3"/>
+               <item> 38. Art not thou one of thoſe fools that the Apoſtle had to deal with in 1 <hi>Cor.</hi> 15. that was queſtioning with him with what manner of bodies the dead ſhould riſe, not underſtanding the corn of wheat?</item>
+               <item>39. What are thoſe ſhadows that flie away when the day appears? Or whether the day be attainable while men are on the earth, yea or nay?</item>
+               <item>40. Whether <hi>John</hi> was a true Witneſs that came to bear witneſs of the true Light that came to enlighten every man that cometh into the world, and to as many as receive him, he gives power to become the ſons of God?</item>
+               <item>41. Whether any come to Chriſt, or be the ſons of God, but ſuch as come to the light that <hi>John</hi> came to bear witneſs of, <hi>John</hi> 1.? If <hi>John</hi> was a true Witneſs, are not you all falſe Witneſſes that have, and do bear witneſs a<g ref="char:EOLhyphen"/>gainſt Chriſt that enlighteneth every one that cometh in<g ref="char:EOLhyphen"/>to the World, who ſay the Light is not ſufficient?</item>
+               <item>42. What is that that gives the knowledge of the glo<g ref="char:EOLhyphen"/>ry of God in the face of Jeſus? Is it in man, or without man?</item>
+               <item>43. Is the Grace of God ſufficient to teach and bring ſalvation? And if ſo, what will become of the Hireling with his club and bag?</item>
+               <item>44. Whether all men be not enlightened that through the Light they may believe, and ſo become the children of Light?</item>
+               <item>45. And whether all be not enlightened before they be children of Light and believe? who not believing in the Light, is not the Light their condemnation? <hi>Joh.</hi> 3.</item>
+               <item>46. Whether or no hath every man the Spirit of God? or whether that Spirit be not the Spirit of God, that re<g ref="char:EOLhyphen"/>proves the World of righteouſneſs and judgement, <hi>&amp;c.</hi> and leads the Saints into all truth? And whether that be ſufficient, yea or nay? And if this be ſufficient, what are thoſe Leaders that cauſe people to err? Whether were not they ſuch as are Hirelings, that preach for wages, and
+<pb n="6" facs="tcp:56318:4"/>divine for money, and bear rule by their means, and ſeek for the Fleece, and their gain from their quarters, and handfuls of Barley, and pieces of bread, and ſuch as are called of men Maſters, and ſtood praying in the Syna<g ref="char:EOLhyphen"/>gogues, which Chriſt cryed wo againſt? <hi>Matth.</hi> 23. <hi>Jer.</hi> 5. <hi>Ezek.</hi> 34. <hi>Micha</hi> 3. <hi>Jer.</hi> 23. <hi>Ezek.</hi> 12.13, 14. 2 <hi>Pet.</hi> 2. <hi>Iſaiah</hi> 5.6.</item>
+               <item>47. Did God make thee an Overſeer of the Flock or men? If God did, whether is it better to obey God, or man? Can thy mouth be opened by God, and ſtopt by men?</item>
+               <item>48. Art not thou the Hireling that is fled becauſe thou wert an Hireling, and leaves the flock when the Wolf comes, and ſo cares not for the flock, and manifeſts that the Flock is not thine own? If God did make thee an O<g ref="char:EOLhyphen"/>verſeer, then thou art diſobedient to him, and letteſt thy flock go whither they will.</item>
+               <item>49. Whether thy Religion and Profeſſion be not a Re<g ref="char:EOLhyphen"/>ligion for Summer, and while the Sun ſhines, whoſe flight is in the Winter, and flies from it in a ſtorm and tempeſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</item>
+               <item>50. And what is that Religion that is not worth ſuffer<g ref="char:EOLhyphen"/>ing for? Is it not below the Monks that will ſuffer for a Relique or an Image, and not in love, but in envy, which all ſuffering is nothing that is not in love?</item>
+               <item>51. Is not this the day that God is making the wiſe men and Diviners mad? Is not the Sun ſet and gone down upon you Prophets and Diviners? the darkneſs is come upon you that may be ſelt: VVhat now, have you no viſion from God, that you are all ſilent, and your mouths ſtopt? VVhat, are all your Seers aſhamed? and what are ye Diviners confounded? VVhat, are your lips all cover<g ref="char:EOLhyphen"/>ed, that you have no anſwer from God? Read <hi>Mich.</hi> 3. And ſee what a day you had of eating the fleſh of Gods people, and fleying off their skins, and crying peace when people put into your mouths: And now is not the day of the Lord come upon you, that hath been told you be<g ref="char:EOLhyphen"/>fore?</item>
+               <pb n="7" facs="tcp:56318:4"/>
+               <item> 52. VVhether is that Light that <hi>John</hi> came to bear wit<g ref="char:EOLhyphen"/>neſs of, <hi>John</hi> 1. a made Light, a created Light, or a natu<g ref="char:EOLhyphen"/>ral conſcience?</item>
+               <item>53. Have you not been treacherous to God, ye that call your ſelves Miniſters, and treacherous to all your pro<g ref="char:EOLhyphen"/>miſes, to your ſelves and others? or was not all your Mi<g ref="char:EOLhyphen"/>niſtry for your mouths and bellies? And have you not be<g ref="char:EOLhyphen"/>trayed both mouth and belly?</item>
+            </list>
+            <p>IT is not much above a hundred yeers ſince all were Papiſts in <hi>England</hi> &amp; <hi>Germany;</hi> &amp; ſo when there was diſſent from the Pope in <hi>England,</hi> and the King turned from him, &amp; then ſet up the Common-Prayer Book, then the Jeſuits turned Common. Prayer<g ref="char:EOLhyphen"/>men, and ſo Common-Prayer men continued a good while; and ſo then when Common-prayer-men went down, and the <hi>Presbyteri<g ref="char:EOLhyphen"/>ans</hi> went up, then the Priests turned <hi>Presbyterians;</hi> and when the <hi>Baptiſts</hi> and <hi>Independents</hi> went up, then many of the Prieſts turned <hi>Baptiſts</hi> and <hi>Independents,</hi> and then <hi>Presbyterians, Baptiſts</hi> and <hi>Independents</hi> joſled one againſt another about the Church-Faith and Directory; in the mean time crept up Common-Prayer-men from under them, and got over them, and throws down both Church-Faith and Directory, and then a great many of <hi>Bap<g ref="char:EOLhyphen"/>tiſts, Independents</hi> and <hi>Presbyterians</hi> turned Common-Pray<g ref="char:EOLhyphen"/>er-men again; and all this while they kept out black Coats; for the Pope hath ſeveral Tribes, white Fryars, grey Fryars; black Coats are Jeſuits; ſo when the Jeſuits turned from the Pope to the Com<g ref="char:EOLhyphen"/>mon-Prayer-men, and them that ſet it up, they kept the black coat to diſtinguiſh their Order and Tribe; and ſo when they turned from thr Common-Prayer to the Presbyterians, they kept black coat; and ſo when they turned Baptiſts and Independents, they kept black coat: And though I Jeſuit turned from the Maſs to the Common-Prayer, and ſo a Presbyterian, a Baptist, an Independent, I was but ſubject to the Higher Power; and ſo if they ſet up Popery a<g ref="char:EOLhyphen"/>gain, I am ready, I kept my black Coat, and my Tythes, that diſtin<g ref="char:EOLhyphen"/>guiſh my Order all this while; for you know there are white Fryars and grey Fryars; black Coats are Jeſuits, and that is my Order that I had from my Father the Pope.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
